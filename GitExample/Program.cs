@@ -10,7 +10,7 @@ namespace GitExample
     {
         static void Main(string[] args)
         {
-            // Wunderschönes Kommentar Lokal geändert
+            // Schönes Kommentar Lokal geändert
             // Wunderschönes Kommentar Remote geändert
             Console.WriteLine("Experiment 1");
             Console.WriteLine("Experiment 2");

@@ -8,6 +8,9 @@ namespace GitExample
 {
     class Program
     {
-        static void Main(string[] args) { }
+        static void Main(string[] args)
+        {
+            // dies ist Feature 0003
+        }
     }
 }

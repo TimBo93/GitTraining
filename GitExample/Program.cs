@@ -8,9 +8,6 @@ namespace GitExample
 {
     class Program
     {
-        static void Main(string[] args)
-        {
-            // Kommentar 123
-        }
+        static void Main(string[] args) { }
     }
 }

@@ -10,7 +10,7 @@ namespace GitExample
     {
         static void Main(string[] args)
         {
-            // Kommentar 123
+            // dies ist Feature 0003
         }
     }
 }

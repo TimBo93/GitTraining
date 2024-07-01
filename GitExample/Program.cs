@@ -8,6 +8,12 @@ namespace GitExample
 {
     class Program
     {
-        static void Main(string[] args) { }
+        static void Main(string[] args)
+        {
+            // Wunderschönes Kommentar Lokal geändert
+            // Wunderschönes Kommentar Remote geändert
+            Console.WriteLine("Experiment 1");
+            Console.WriteLine("Experiment 2");
+        }
     }
 }

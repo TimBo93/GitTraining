@@ -1,0 +1,25 @@
+From 8e7591abf27e7f18dcf7368c601488c39dca01ab Mon Sep 17 00:00:00 2001
+From: Tim B <TimBo93@users.noreply.github.com>
+Date: Mon, 17 Jun 2024 15:54:47 +0200
+Subject: [PATCH] Update Program.cs
+
+---
+ GitExample/Program.cs | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/GitExample/Program.cs b/GitExample/Program.cs
+index 99d790e..a6f938f 100644
+--- a/GitExample/Program.cs
++++ b/GitExample/Program.cs
+@@ -10,7 +10,7 @@ namespace GitExample
+     {
+         static void Main(string[] args)
+         {
+-            // Wunderschönes Kommentar
++            // Wunderschönes Kommentar Remote geändert
+             Console.WriteLine("Experiment 1");
+             Console.WriteLine("Experiment 2");
+         }
+-- 
+2.20.0.windows.1
+
